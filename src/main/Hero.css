@@ -1,0 +1,33 @@
+
+ 
+ .premium .hero {
+    background-color: #1D75DE;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.title {
+   font-size: 39px;
+   margin: 0;
+   color: #FFFFFF;
+   font-weight: bold;
+  
+}
+
+.card{
+    font-size: 24px;
+}
+
+.terms {
+    font-size: 11px;
+}
+
+.btn .btn1{
+    padding: 16px 35px;
+    font-size: 13px;
+    border-radius: 500px;
+  }

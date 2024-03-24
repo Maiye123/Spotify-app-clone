@@ -1,0 +1,27 @@
+.section {
+  width: fit-content;
+}
+
+.btn, .btn-outline{
+  border-radius: 500px;
+  padding: 16px 15px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.btn{
+  background-color: black;
+  color: white;
+}
+
+.btn-outline{
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
+
+.btn-style{
+  display: flex;
+  gap: 10px;
+}
